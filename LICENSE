@@ -1,0 +1,22 @@
+Jester Engine Proprietary Evaluation License
+Version 1.0 — 18 November 2026
+
+Copyright © 2026 the Jester Engine rights holders. All rights reserved.
+
+1. Scope and ownership
+This license applies to the proprietary parts of Jester Engine, its installers, and accompanying materials made available for evaluation through the official JesterEngine/Jester-Engine repository. Copyright and other intellectual property rights remain with the respective rights holders. This license grants only the permissions stated below.
+
+2. Evaluation permission
+The Jester Engine rights holders grant you a no-charge, nonexclusive, nontransferable and nonsublicensable license to download, install and run the official binaries on systems you own or are authorized to use, solely to evaluate and test Jester Engine. You may make copies reasonably necessary for that evaluation. You may share links to the official Releases page and report your findings.
+
+3. Restrictions
+Separate written permission is required for production use, commercial deployment, resale, sublicensing, redistribution, mirroring, repackaging or modification of the proprietary binaries. Preserve copyright and license notices. Reverse engineering, decompilation and disassembly of the proprietary binaries require permission except where applicable law permits those activities despite a contractual restriction.
+
+4. Third-party components and legal rights
+Third-party components remain subject to their own licenses and notices. This license does not restrict any rights those licenses grant for those components. Rights under applicable mandatory law remain in force, including applicable rights to make a necessary backup, study program behavior or obtain information required for interoperability.
+
+5. Warranty and liability
+To the extent permitted by applicable law, evaluation builds are provided as is, without express or implied warranties or any commitment to support or updates. To the extent permitted by applicable law, the rights holders are not liable for indirect or consequential losses arising from evaluation use. Mandatory consumer protections and liability that cannot lawfully be excluded or limited remain unaffected.
+
+6. Termination and permission requests
+If you materially breach this license, the evaluation permission ends. Stop using the proprietary binaries and remove evaluation copies in your control, except where retention is required or permitted by applicable law. For permission beyond evaluation, contact the JesterEngine organization through its official GitHub profile: https://github.com/JesterEngine.
